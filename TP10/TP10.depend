@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669549683 source:/Users/mutiaramaulidina/Documents/TP10/main.cpp
+	<iostream>
+	"stack.h"
+
+1669549683 /Users/mutiaramaulidina/Documents/TP10/stack.h
+
+1669549683 source:/Users/mutiaramaulidina/Documents/TP10/stack.cpp
+	"stack.h"
+	<iostream>
+
